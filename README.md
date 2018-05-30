@@ -10,7 +10,7 @@
 
 * SeetaFace2 Alignment. See [SeetaFace Alignment](./FaceAlignment) for more details.
 
-* SeetaFace2 Identification. See [SeetaFace Alignment](./FaceIdentification) for more details. 
+* SeetaFace2 Identification. See [SeetaFace Identification](./FaceIdentification) for more details. 
 
 This face recognition engine is developed by Visual Information Processing and Learning (VIPL) group, Institute of Computing Technology, Chinese Academy of Sciences. The open source is now released under BSD-2 license (see [LICENSE](LICENSE) for details), which means the codes can be used freely for both acedemic purpose and industrial products.
 
