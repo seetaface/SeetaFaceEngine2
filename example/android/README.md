@@ -2,6 +2,10 @@
 
 > The face recognition SDK call flow for Android
 
+0 Download SDK
+[Download Android SDK](../../attachment/android/README.md).
+[View API](../../attachment/prebuild/java).
+
 1 First initialize FaceDetector2, use "Detect" interface to detect face location in image
 
 1.1 Initialize FaceDetector2

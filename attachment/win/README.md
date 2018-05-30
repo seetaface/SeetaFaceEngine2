@@ -2,7 +2,11 @@
 
 ### Download link
 
-[MSVC 2013 build](./msvc2013.zip).
+#### - MSVC 2013
+
+* [Download headers](../prebuild/header.zip). [View](../prebuild/include)
+* [Download libraries](../prebuild/lib/win/msvc2013.zip).
+* [Download models](https://pan.baidu.com/s/1HJj8PEnv3SOu6ZxVpAHPXg). [MD5](./bindata/MD5.txt).
 
 ### Reference
 

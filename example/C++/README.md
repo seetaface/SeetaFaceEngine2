@@ -2,6 +2,12 @@
 
 > Compliant APIs for Windows and Linux C++ usage.
 
+
+### 0. Download SDK
+[Download Windows SDK](../../attachment/win/README.md).
+[Download Linux SDK](../../attachment/linux/README.md).
+[View API](../../attachment/prebuild/include).
+
 ### 1. Face Detection
 
 ##### 1.1 Initialize FaceDetector2
