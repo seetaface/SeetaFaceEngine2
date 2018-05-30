@@ -24,10 +24,5 @@ namespace seeta
 		private:
 			cv::Mat cv_mat;
 		};
-
-		inline ImageData read_image(const std::string &filename)
-		{
-			return cv::imread(filename, cv::IMREAD_COLOR);
-		}
 	}
 }
