@@ -13,7 +13,7 @@ To detect faces, one should first instantiate an object of `seeta::FaceRecognize
 
 **SeetaFace2 Identification only support 1 instance in single application.**
 
-**SeetaFace2 Identification only support 10 probes in memory.**
+**SeetaFace2 Identification only support 500 probes in memory.**
 
 ### Documents
 
