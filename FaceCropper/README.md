@@ -81,7 +81,7 @@ const;
 ### Downloads
 
 * [Download headers](../attachment/prebuild/header.zip). [View](../attachment/prebuild/include)
-* [Download MSVC2013 libraries](../attachment/prebuild/lib/win/msvc2013.zip).
+* [Download MSVC2013 libraries](../attachment/prebuild/lib/win/msvc2013_facecropper.zip).
 * [Download Ubuntu16.04 libraries](../attachment/prebuild/lib/linux/ubuntu16.04_facecropper.tar.gz).
 
 
