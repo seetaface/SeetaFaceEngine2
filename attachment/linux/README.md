@@ -6,6 +6,7 @@
 
 * [Download headers](../prebuild/header.zip). [View](../prebuild/include)
 * [Download libraries](../prebuild/lib/linux/ubuntu16.04.tar.gz).
+* [Download FaceCropper libraries](../prebuild/lib/linux/ubuntu16.04_facecropper.tar.gz).
 * [Download models](https://pan.baidu.com/s/1HJj8PEnv3SOu6ZxVpAHPXg). [MD5](./bindata/MD5.txt).
 
 ### Reference

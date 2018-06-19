@@ -14,6 +14,11 @@
 
 This face recognition engine is developed by Visual Information Processing and Learning (VIPL) group, Institute of Computing Technology, Chinese Academy of Sciences. The open source is now released under BSD-2 license (see [LICENSE](LICENSE) for details), which means the codes can be used freely for both acedemic purpose and industrial products.
 
+**SeetaFace2 Engine** contains an additional package, **SeetaFace2 Cropper**. It can run in Windows and Linux for face data preprocessing.
+
+* SeetaFace2 Detection. See [SeetaFace Cropper](./FaceCropper) for more details. 
+
+
 ### Contact Info
 
 If you have any problem on SeetaFace Engine, please contact us by sending email to SeetaFace@vipl.ict.ac.cn.
@@ -26,6 +31,7 @@ SeetaTech is a start-up company with the focus on computer vision technology, wh
 * [SeetaFace2 Detection](./FaceDetection/README.md)
 * [SeetaFace2 Alignment](./FaceAlignment/README.md)
 * [SeetaFace2 Identification](./FaceIdentification/README.md)
+* [SeetaFace2 Cropper](./FaceCropper/README.md)
 
 ### Download links
 

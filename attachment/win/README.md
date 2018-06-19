@@ -6,6 +6,7 @@
 
 * [Download headers](../prebuild/header.zip). [View](../prebuild/include)
 * [Download libraries](../prebuild/lib/win/msvc2013.zip).
+* [Download FaceCropper libraries](../prebuild/lib/win/msvc2013_facecropper.zip).
 * [Download models](https://pan.baidu.com/s/1HJj8PEnv3SOu6ZxVpAHPXg). [MD5](./bindata/MD5.txt).
 
 ### Reference
