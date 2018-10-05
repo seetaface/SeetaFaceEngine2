@@ -10,7 +10,7 @@
 
 ### 2. Download binary model files
 
-* [Download models](https://pan.baidu.com/s/1HJj8PEnv3SOu6ZxVpAHPXg). [MD5](./bindata/MD5.txt).
+* Download models: [Baidu](https://pan.baidu.com/s/1HJj8PEnv3SOu6ZxVpAHPXg), [Google drive](https://drive.google.com/uc?id=10XBHFsMiwosF6F5RtdJEywwdhIgI3yUQ&export=download). [MD5](./bindata/MD5.txt).
 
 ### 3. Read documents according to the programming language
 
